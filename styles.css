@@ -1,0 +1,73 @@
+/* h2{
+    color: tomato;
+} */
+
+
+/* #cake{
+    color: tomato;
+    font-size: 60px;
+}
+
+
+h1{
+    color: violet;
+    font-size: 100px;
+} */
+
+/* 
+EXternal CSS mtlb 1 css ki file bana k sari html ki files se attach krdena.
+Internal css mtlb html ki same file k ander jisme code likha h ussi mein style ka
+tag head k tag k andr use krke css apply krna.
+Inline css mtlb jis parahgraph yani p mein kam kiya h ussi mein style ka attribute
+likh k usme css apply kr skte hain.
+*/
+
+
+/* class 2 css. */
+
+#cake{
+    text-align: center;
+   font-size: 60px;
+   background-color: rgb(135, 128, 94); /*color name*/
+    color: floralwhite; /*color name*/
+}
+
+
+#cake1{
+    background-color: rgb(135, 128, 94);
+}
+
+/* hexa k ander hum 0-9 and a-f color de skte hain. */
+
+#cake2{
+    background-color: rgb(135, 128, 94);
+}
+
+img{
+    width: 100%;
+    height: 500px;
+}
+
+
+td> img{
+    width: 300px;
+    height: 200px; 
+}
+
+
+#menu{
+    background-color: aliceblue;
+    text-align: center;
+    width: 50%;   
+}
+
+ /* #imgheader{
+    width: 100%;
+    height: 500px;
+}
+
+
+img{
+    width: 300px;
+    height: 200px;
+}  */ 
