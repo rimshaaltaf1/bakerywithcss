@@ -35,6 +35,9 @@ likh k usme css apply kr skte hain.
 
 #cake1{
     background-color: rgb(135, 128, 94);
+    font-family: "MedievalSharp", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 /* hexa k ander hum 0-9 and a-f color de skte hain. */
@@ -61,6 +64,30 @@ td> img{
     width: 50%;   
 }
 
+
+/* Class 3 */
+
+
+#aa{
+    color: chocolate;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 72px;
+}
+
+p> span{
+    font-weight: 700;
+    font-style: italic;
+}
+
+#change{
+    font-size: 5vw;
+    font-weight: bold;
+}  
+
+
+/* 
+id k liye hm # use krte hain.
+class k liye hm . use krte hain. */
  /* #imgheader{
     width: 100%;
     height: 500px;
